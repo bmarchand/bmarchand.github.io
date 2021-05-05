@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://www.lix.polytechnique.fr/~marchand//http://www.lix.polytechnique.fr/~marchand/posts/welcome-to-jekyll/</loc>
+<loc>/http://www.lix.polytechnique.fr/~marchand/posts/welcome-to-jekyll/</loc>
 <lastmod>2021-05-04T10:25:23+02:00</lastmod>
 </url>
 <url>
-<loc>http://www.lix.polytechnique.fr/~marchand//http://www.lix.polytechnique.fr/~marchand/publications/</loc>
-<lastmod>2021-05-05T12:15:02+02:00</lastmod>
+<loc>/http://www.lix.polytechnique.fr/~marchand/publications/</loc>
+<lastmod>2021-05-05T12:20:02+02:00</lastmod>
 </url>
 <url>
-<loc>http://www.lix.polytechnique.fr/~marchand//http://www.lix.polytechnique.fr/~marchand/cv/</loc>
-<lastmod>2021-05-05T12:15:02+02:00</lastmod>
+<loc>/http://www.lix.polytechnique.fr/~marchand/cv/</loc>
+<lastmod>2021-05-05T12:20:02+02:00</lastmod>
 </url>
 <url>
-<loc>http://www.lix.polytechnique.fr/~marchand//http://www.lix.polytechnique.fr/~marchand/</loc>
+<loc>/http://www.lix.polytechnique.fr/~marchand/</loc>
 </url>
 <url>
-<loc>http://www.lix.polytechnique.fr/~marchand//http://www.lix.polytechnique.fr/~marchand/categories/jekyll/</loc>
+<loc>/http://www.lix.polytechnique.fr/~marchand/categories/jekyll/</loc>
 </url>
 <url>
-<loc>http://www.lix.polytechnique.fr/~marchand//http://www.lix.polytechnique.fr/~marchand/categories/update/</loc>
+<loc>/http://www.lix.polytechnique.fr/~marchand/categories/update/</loc>
 </url>
 </urlset>
