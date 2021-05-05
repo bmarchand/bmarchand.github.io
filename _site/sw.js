@@ -1,6 +1,6 @@
-self.importScripts('/assets/js/data/swcache.js');
+self.importScripts('/http://www.lix.polytechnique.fr/~marchand/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-20210505.1124';
+const cacheName = 'chirpy-20210505.1141';
 
 function verifyDomain(url) {
   for (const domain of allowedDomains) {
