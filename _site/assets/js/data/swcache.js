@@ -1,39 +1,39 @@
 const resource = [
 
   /* --- CSS --- */
-  '/http://www.lix.polytechnique.fr/~marchand/assets/css/style.css',
+  '/assets/css/style.css',
 
   /* --- JavaScripts --- */
   
-  '/http://www.lix.polytechnique.fr/~marchand/assets/js/dist/home.min.js',
-  '/http://www.lix.polytechnique.fr/~marchand/assets/js/dist/page.min.js',
-  '/http://www.lix.polytechnique.fr/~marchand/assets/js/dist/post.min.js',
-  '/http://www.lix.polytechnique.fr/~marchand/assets/js/dist/categories.min.js',
-  '/http://www.lix.polytechnique.fr/~marchand/assets/js/data/search.json',
-  '/http://www.lix.polytechnique.fr/~marchand/app.js',
-  '/http://www.lix.polytechnique.fr/~marchand/sw.js',
+  '/assets/js/dist/home.min.js',
+  '/assets/js/dist/page.min.js',
+  '/assets/js/dist/post.min.js',
+  '/assets/js/dist/categories.min.js',
+  '/assets/js/data/search.json',
+  '/app.js',
+  '/sw.js',
 
   /* --- HTML --- */
-  '/http://www.lix.polytechnique.fr/~marchand/index.html',
-  '/http://www.lix.polytechnique.fr/~marchand/404.html',
+  '/index.html',
+  '/404.html',
   
-    '/http://www.lix.polytechnique.fr/~marchand/publications/',
+    '/publications/',
   
-    '/http://www.lix.polytechnique.fr/~marchand/cv/',
+    '/cv/',
   
 
   /* --- Favicons --- */
   
 
-  '/http://www.lix.polytechnique.fr/~marchand/assets/img/favicons/android-chrome-192x192.png',
-  '/http://www.lix.polytechnique.fr/~marchand/assets/img/favicons/android-chrome-512x512.png',
-  '/http://www.lix.polytechnique.fr/~marchand/assets/img/favicons/apple-touch-icon.png',
-  '/http://www.lix.polytechnique.fr/~marchand/assets/img/favicons/favicon-16x16.png',
-  '/http://www.lix.polytechnique.fr/~marchand/assets/img/favicons/favicon-32x32.png',
-  '/http://www.lix.polytechnique.fr/~marchand/assets/img/favicons/favicon.ico',
-  '/http://www.lix.polytechnique.fr/~marchand/assets/img/favicons/mstile-150x150.png',
-  '/http://www.lix.polytechnique.fr/~marchand/assets/img/favicons/site.webmanifest',
-  '/http://www.lix.polytechnique.fr/~marchand/assets/img/favicons/browserconfig.xml'
+  '/assets/img/favicons/android-chrome-192x192.png',
+  '/assets/img/favicons/android-chrome-512x512.png',
+  '/assets/img/favicons/apple-touch-icon.png',
+  '/assets/img/favicons/favicon-16x16.png',
+  '/assets/img/favicons/favicon-32x32.png',
+  '/assets/img/favicons/favicon.ico',
+  '/assets/img/favicons/mstile-150x150.png',
+  '/assets/img/favicons/site.webmanifest',
+  '/assets/img/favicons/browserconfig.xml'
 
 ];
 

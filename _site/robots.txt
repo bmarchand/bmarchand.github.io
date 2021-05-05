@@ -1,1 +1,1 @@
-Sitemap: http://www.lix.polytechnique.fr/~marchand//http://www.lix.polytechnique.fr/~marchand/sitemap.xml
+Sitemap: http://www.lix.polytechnique.fr/~marchand//sitemap.xml
