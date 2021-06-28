@@ -8,6 +8,6 @@ order: 2
 
 {% bibliography --query @*[group=submitted] %}
 
-# Published work
+# Published/accepted work
 
 {% bibliography --query @*[group=published] %}
