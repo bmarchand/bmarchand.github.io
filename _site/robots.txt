@@ -1,1 +1,5 @@
-Sitemap: https://www.lix.polytechnique.fr/~marchand//~marchand/sitemap.xml
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: http://localhost:4000/~marchand/sitemap.xml

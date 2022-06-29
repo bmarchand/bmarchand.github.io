@@ -7,7 +7,7 @@
 {% if entry.note %}
    <b><i> {{ entry.note }}&nbsp;&nbsp;</i></b>
 {% endif %}
-<button class="button0"  onclick="toggleBibtex{{entry.key}}()">Bibtex</button>
+<!--<button class="button0"  onclick="toggleBibtex{{entry.key}}()">Bibtex</button>-->
  
 {% if entry.doi %}
     <a href="{{ entry.doi | prepend: 'http://doi.org/' }}"><input class="button1" type="button" value="doi" /></a>
@@ -18,11 +18,15 @@
 {% endif %}
  
 {% if entry.link %}
-    <a href="{{ entry.link }}"><input class="button4" type="button" value="link" /></a>
+    <a href="{{ entry.link }}"><input class="button4" type="button" value="publication link" /></a>
 {% endif %}
  
 {% if entry.code %}
     <a href="{{ entry.code }}"><input class="button3" type="button" value="code" /></a>
+{% endif %}
+
+{% if entry.long %}
+    <a href="{{ entry.long }}"><input class="button5" type="button" value="long version" /></a>
 {% endif %}
 
 <div id="a{{entry.key}}" style="display: none;">

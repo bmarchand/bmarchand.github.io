@@ -41,7 +41,7 @@ const resource = [
 const allowedDomains = [
   
 
-  'www.lix.polytechnique.fr/~marchand/',
+  'localhost:4000',
 
   'fonts.gstatic.com',
   'fonts.googleapis.com',

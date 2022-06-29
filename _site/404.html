@@ -16,24 +16,26 @@
 
   
 
-  <!-- Begin Jekyll SEO tag v2.7.1 -->
-<meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="Bertrand Marchand" />
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="404: Page not found" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Personal website of Bertrand Marchand, PhD student at LIX, Amibio team." />
 <meta property="og:description" content="Personal website of Bertrand Marchand, PhD student at LIX, Amibio team." />
-<link rel="canonical" href="https://www.lix.polytechnique.fr/~marchand//~marchand/404.html" />
-<meta property="og:url" content="https://www.lix.polytechnique.fr/~marchand//~marchand/404.html" />
+<link rel="canonical" href="http://localhost:4000/~marchand/404.html" />
+<meta property="og:url" content="http://localhost:4000/~marchand/404.html" />
 <meta property="og:site_name" content="Bertrand Marchand" />
+<meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Bertrand Marchand" />
+<meta property="twitter:title" content="404: Page not found" />
+<meta name="twitter:site" content="@twitter_username" />
 <meta name="google-site-verification" content="google_meta_tag_verification" />
 <script type="application/ld+json">
-{"@type":"WebPage","url":"https://www.lix.polytechnique.fr/~marchand//~marchand/404.html","headline":"Bertrand Marchand","description":"Personal website of Bertrand Marchand, PhD student at LIX, Amibio team.","@context":"https://schema.org"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"Personal website of Bertrand Marchand, PhD student at LIX, Amibio team.","headline":"404: Page not found","url":"http://localhost:4000/~marchand/404.html"}</script>
 <!-- End Jekyll SEO tag -->
 
 
-  <title> | Bertrand Marchand
+  <title>404: Page not found | Bertrand Marchand
   </title>
 
   <!--
@@ -83,6 +85,9 @@
 
 
 
+  <!-- Manific Popup -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/magnific-popup@1.1.0/dist/magnific-popup.min.css">
+
 
 
   <!-- JavaScripts -->
@@ -99,11 +104,15 @@
 
 
 
+  <!-- image lazy-loading & popup -->
+  <script async
+    src="https://cdn.jsdelivr.net/combine/npm/lozad/dist/lozad.min.js,npm/magnific-popup@1/dist/jquery.magnific-popup.min.js"></script>
 
 
 
 
-<script defer src="/~marchand/assets/js/dist/commons.min.js"></script>
+
+<script defer src="/~marchand/assets/js/dist/page.min.js"></script>
 
 
 
@@ -398,7 +407,7 @@
       
 
         
-          <span></span>
+          <span>404: Page not found</span>
 
         
 
@@ -411,7 +420,7 @@
     <i id="sidebar-trigger" class="fas fa-bars fa-fw"></i>
 
     <div id="topbar-title">
-      Default
+      Page
     </div>
 
     <i id="search-trigger" class="fas fa-search fa-fw"></i>
@@ -455,26 +464,77 @@
 
 
 <!-- return -->
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
+<div class="row">
+  <div class="col-12 col-lg-11 col-xl-8">
+    <div id="page" class="post pb-5 pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4 mb-md-4">
+    
+      
 
-<div class="container">
-  <h1>404</h1>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+
+<div class="lead">
+  <p></p>
 </div>
+
+    
+    </div> <!-- #page -->
+  </div><!-- .col-12 -->
+
+  <!--
+  The Pannel on right side (Desktop views)
+-->
+
+<div id="panel-wrapper" class="col-xl-3 pl-2 text-muted topbar-down">
+
+  <div class="access">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  </div> <!-- .access -->
+
+  
+
+</div> <!-- #panel-wrapper -->
+
+
+</div>
+
+
 
 
 
@@ -486,7 +546,7 @@
   <div class="d-flex justify-content-between align-items-center">
     <div class="footer-left">
       <p class="mb-0">
-        © 2021
+        © 2022
         <a href="https://github.com/bmarchand">Bertrand Marchand</a>.
         
         <span data-toggle="tooltip" data-placement="top"
@@ -572,7 +632,7 @@ SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('search-results'),
   json: '/~marchand/assets/js/data/search.json',
-  searchResultTemplate: '<div class="pl-1 pr-1 pl-sm-2 pr-sm-2 pl-lg-4 pr-lg-4 pl-xl-0 pr-xl-0">  <a href="https://www.lix.polytechnique.fr/~marchand/{url}">{title}</a>  <div class="post-meta d-flex flex-column flex-sm-row text-muted mt-1 mb-1">    {categories}    {tags}  </div>  <p>{snippet}</p></div>',
+  searchResultTemplate: '<div class="pl-1 pr-1 pl-sm-2 pr-sm-2 pl-lg-4 pr-lg-4 pl-xl-0 pr-xl-0">  <a href="http://localhost:4000{url}">{title}</a>  <div class="post-meta d-flex flex-column flex-sm-row text-muted mt-1 mb-1">    {categories}    {tags}  </div>  <p>{snippet}</p></div>',
   noResultsText: '<p class="mt-5">Oops! No result founds.</p>',
   templateMiddleware: function(prop, value, template) {
     if (prop === 'categories') {
