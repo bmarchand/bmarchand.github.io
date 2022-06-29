@@ -5,7 +5,7 @@
 
 <div class="text-justify">{{reference}}</div>
 {% if entry.note %}
-   <b><i> {{ entry.note }}&nbsp;&nbsp;</i></b>
+   <b> {{ entry.note }}&nbsp;&nbsp;</b>
 {% endif %}
 <!--<button class="button0"  onclick="toggleBibtex{{entry.key}}()">Bibtex</button>-->
  
@@ -26,7 +26,7 @@
 {% endif %}
 
 {% if entry.long %}
-    <a href="{{ entry.long }}"><input class="button5" type="button" value="long version" /></a>
+    <a href="{{ entry.long }}"><input class="button0" type="button" value="long version" /></a>
 {% endif %}
 
 <div id="a{{entry.key}}" style="display: none;">

@@ -1,7 +1,7 @@
 .button0 {
-    background-color: #c4c4c4;
+    background-color: #e77d3d;
     border: none;
-    color: black;
+    color: white;
     padding: 4px 8px;
     text-align: center;
     text-decoration: none;
@@ -74,7 +74,7 @@
 }
 
 .button5 {
-    background-color: #f07b34;
+    background-color: #ff5733;
     border: none;
     color: white;
     padding: 4px 8px;
