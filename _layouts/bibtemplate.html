@@ -1,7 +1,7 @@
 ---
 ---
 
-<link rel="stylesheet" href="../assets/css/syntax.css">
+<link rel="stylesheet" href="assets/css/syntax.css">
 
 <div class="text-justify">{{reference}}</div>
 {% if entry.note %}
@@ -13,8 +13,8 @@
     <a href="{{ entry.doi | prepend: 'http://doi.org/' }}"><input class="button1" type="button" value="doi" /></a>
 {% endif %}
  
-{% if entry.preprint %}
-    <a href="{{ entry.preprint }}"><input class="button2" type="button" value="preprint" /></a>
+{% if entry.fulltext %}
+    <a href="{{ entry.fulltext }}"><input class="button2" type="button" value="full text" /></a>
 {% endif %}
  
 {% if entry.link %}
@@ -23,10 +23,6 @@
  
 {% if entry.code %}
     <a href="{{ entry.code }}"><input class="button3" type="button" value="code" /></a>
-{% endif %}
-
-{% if entry.long %}
-    <a href="{{ entry.long }}"><input class="button0" type="button" value="long version" /></a>
 {% endif %}
 
 <div id="a{{entry.key}}" style="display: none;">

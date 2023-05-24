@@ -19,3 +19,15 @@ emphasis on **graph width parameters** such as **treewidth**.
 
 My research interests more largely include **graph theory**, 
 **graph algorithms**, general **bioinformatics** and **quantum computing** (see CV).
+
+# Preprints
+
+{% bibliography --query @*[group=preprint] %}
+
+# Conference Publications
+
+{% bibliography --query @*[group=conference] %}
+
+# Journal Publications
+
+{% bibliography --query @*[group=journal] %}
