@@ -6,16 +6,17 @@ layout: page
 ---
 <br/><br/>
 <br/><br/>
-I am a PhD student working at **[LIX](https://www.lix.polytechnique.fr/)** 
+I am a **post-doctoral researcher** at the **University of Sherbrooke**, working primarily with
+ **[Manuel Lafond](https://mlafond.recherche.usherbrooke.ca/)**.
+
+Before that, I was a PhD student at **[LIX](https://www.lix.polytechnique.fr/)** 
 under the supervision of **[Laurent Bulteau](http://igm.univ-mlv.fr/~bulteau/)
 ([LIGM](http://ligm.u-pem.fr/))**
 and **[Yann Ponty](http://www.lix.polytechnique.fr/~ponty/) ([LIX](https://www.lix.polytechnique.fr/))**. 
 
-
 I focus on designing **parameterized algorithms**
-for hard problems in **RNA bioinformatics**, with a particular
-emphasis on **graph width parameters** such as **treewidth**. 
-
+for hard problems in **bioinformatics**. Application areas include **RNA bioinformatics** and
+**Evolution**, with my current post-doctoral project being about the **comparison of phylogenetic networks**.
 
 My research interests more largely include **graph theory**, 
 **graph algorithms**, general **bioinformatics** and **quantum computing** (see CV).
