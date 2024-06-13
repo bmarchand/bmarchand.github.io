@@ -21,6 +21,10 @@ for hard problems in **bioinformatics**. Application areas include **RNA bioinfo
 My research interests more largely include **graph theory**, 
 **graph algorithms**, general **bioinformatics** and **quantum computing** (see CV).
 
+## PhD thesis
+
+{% bibliography --query @*[group=thesis] %}
+
 # Preprints
 
 {% bibliography --query @*[group=preprint] %}
@@ -32,3 +36,7 @@ My research interests more largely include **graph theory**,
 # Journal Publications
 
 {% bibliography --query @*[group=journal] %}
+
+# Patents
+
+{% bibliography --query @*[group=patents] %}
