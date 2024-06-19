@@ -7,7 +7,7 @@ layout: page
 <br/><br/>
 <br/><br/>
 I am a **post-doctoral researcher** at the **University of Sherbrooke**, working primarily with
- **[Manuel Lafond](https://mlafond.recherche.usherbrooke.ca/)**.
+ **[Manuel Lafond](https://mlafond.recherche.usherbrooke.ca/){:target="_blank"}**.
 
 Before that, I was a PhD student at **[LIX](https://www.lix.polytechnique.fr/)** 
 under the supervision of **[Laurent Bulteau](http://igm.univ-mlv.fr/~bulteau/)
