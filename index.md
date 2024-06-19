@@ -9,10 +9,10 @@ layout: page
 I am a **post-doctoral researcher** at the **University of Sherbrooke**, working primarily with
  **[Manuel Lafond](https://mlafond.recherche.usherbrooke.ca/){:target="_blank"}**.
 
-Before that, I was a PhD student at **[LIX](https://www.lix.polytechnique.fr/)** 
-under the supervision of **[Laurent Bulteau](http://igm.univ-mlv.fr/~bulteau/)
-([LIGM](http://ligm.u-pem.fr/))**
-and **[Yann Ponty](http://www.lix.polytechnique.fr/~ponty/) ([LIX](https://www.lix.polytechnique.fr/))**. 
+Before that, I was a PhD student at **[LIX](https://www.lix.polytechnique.fr/){:target="_blank"}** 
+under the supervision of **[Laurent Bulteau](http://igm.univ-mlv.fr/~bulteau/){:target="_blank"}
+([LIGM](http://ligm.u-pem.fr/){:target="_blank"})**
+and **[Yann Ponty](http://www.lix.polytechnique.fr/~ponty/){:target="_blank"} ([LIX](https://www.lix.polytechnique.fr/){:target="_blank"})**. 
 
 I focus on designing **parameterized algorithms**
 for hard problems in **bioinformatics**. Application areas include **RNA bioinformatics** and
