@@ -5,7 +5,9 @@ icon: fas fa-info
 order: 4
 ---
 
-- I started my PhD in **October 2020**.
+- Since **November 2023**, I am a Post-Doc at **Université de Sherbrooke** (Canada).
+
+- I did my PhD at École Polytechnique (France), from **October 2020**, to **September 2023**.
 
 - Before that, I worked as an **R&D engineer** within the **Atos Quantum Lab**
 for 3.5 years. (Since **November 2016**).
