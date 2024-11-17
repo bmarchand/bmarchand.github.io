@@ -16,7 +16,7 @@ and **[Yann Ponty](http://www.lix.polytechnique.fr/~ponty/){:target="_blank"} ([
 
 I focus on designing **parameterized algorithms**
 for hard problems in **bioinformatics**. Application areas include **RNA bioinformatics** and
-**Evolution**, with my current post-doctoral project being about the **comparison of phylogenetic networks**.
+**evolution**, with my current post-doctoral project being about the **comparison of phylogenetic networks**.
 
 My research interests more largely include **graph theory**, 
 **graph algorithms**, general **bioinformatics** and **quantum computing** (see CV).
@@ -29,13 +29,13 @@ My research interests more largely include **graph theory**,
 
 {% bibliography --query @*[group=preprint] %}
 
-# Conference Publications
-
-{% bibliography --query @*[group=conference] %}
-
 # Journal Publications
 
 {% bibliography --query @*[group=journal] %}
+
+# Conference Publications
+
+{% bibliography --query @*[group=conference] %}
 
 # Patents
 
