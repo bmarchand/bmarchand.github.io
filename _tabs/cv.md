@@ -10,6 +10,6 @@ order: 4
 - I did my PhD at École Polytechnique (France), from **October 2020**, to **September 2023**.
 
 - Before that, I worked as an **R&D engineer** within the **Atos Quantum Lab**
-for 3.5 years. (Since **November 2016**).
+for 4 years. (From **November 2016** to **August 2020**).
 
 - I graduated from a double-degree in **Physics** between **ENS Lyon** and **EPFL** in **2015**.
