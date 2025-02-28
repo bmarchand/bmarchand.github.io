@@ -17,7 +17,7 @@ timezone: Europe/Paris
 # --------------------------
 title: Bertrand Marchand                          # the main title
 
-tagline: Post-Doctoral researcher in RNA Bioinformatics   # it will display as the sub-title
+tagline: Post-Doctoral researcher in Algorithms for Bioinformatics   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
     Personal website of Bertrand Marchand, post-doctoral researcher at the University of Sherbrooke.
