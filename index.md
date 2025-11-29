@@ -6,10 +6,10 @@ layout: page
 ---
 <br/><br/>
 <br/><br/>
-I am a **post-doctoral researcher** at the **Université du Québec à Montréal**,
+I am a **post-doctoral researcher** at **Université du Québec à Montréal**,
 working with **[Vladimir Reinharz](https://cbe.uqam.ca/){:target="_blank"}**
 
-Until October 2025 I was a postdoc at the **Université de Sherbrooke**, working primarily with **[Manuel
+Until October 2025 I was a postdoc at **Université de Sherbrooke**, working primarily with **[Manuel
 Lafond](https://mlafond.recherche.usherbrooke.ca/){:target="_blank"}**.
 
 Before that, I was a PhD student at **[LIX](https://www.lix.polytechnique.fr/){:target="_blank"}** 
