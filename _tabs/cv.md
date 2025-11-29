@@ -5,7 +5,8 @@ icon: fas fa-info
 order: 4
 ---
 
-- Since **November 2023**, I am a Post-Doc at **Université de Sherbrooke** (Canada).
+- Since **November 2023**, I am a postdoctoral research, first at **Université de Sherbrooke** (2023-2025) and
+now at **Université du Québec à Montréal**, both in Canada.
 
 - I did my PhD at École Polytechnique (France), from **October 2020**, to **September 2023**.
 
